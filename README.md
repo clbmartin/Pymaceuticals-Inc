@@ -1,0 +1,1 @@
+The code for this module was formed through class instruction and module 5 assistance video by my instructor Dr. A. Any additional problems I had with my coding was worked out with my TA Nick Allen. I also used some of the helper code provided in the Module.
